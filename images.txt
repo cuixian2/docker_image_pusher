@@ -1,2 +1,14 @@
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 quay.io/external_storage/local-volume-provisioner:v2.3.4
+pingcap/pd:v7.5.1
+pingcap/tikv:v7.5.1
+pingcap/tidb:v7.5.1
+pingcap/tidb-binlog:v7.5.1
+pingcap/ticdc:v7.5.1
+pingcap/tiflash:v7.5.1
+pingcap/tiproxy:latest
+pingcap/tidb-monitor-reloader:v1.0.1
+pingcap/tidb-monitor-initializer:v7.5.1
+grafana/grafana:7.5.11
+prom/prometheus:v2.18.1
+busybox:1.26.2
