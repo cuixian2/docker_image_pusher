@@ -1,1 +1,2 @@
 tnir/mysqlclient:latest
+alpine:3.16.0
