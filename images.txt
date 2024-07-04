@@ -1,4 +1,1 @@
-pingcap/tidb-operator:v1.5.3
-pingcap/tidb-backup-manager:v1.5.3
-bitnami/kubectl:latest
-pingcap/advanced-statefulset:v0.3.3
+tnir/mysqlclient:latest
