@@ -1,7 +1,3 @@
-tnir/mysqlclient:latest
-alpine:3.16.0
-kubernetesui/metrics-scraper:v1.0.7
-kubernetesui/dashboard:v2.5.1
 k8s.gcr.io/kube-proxy-arm64:v1.23.1
 k8s.gcr.io/etcd-arm64:3.5.1-0
 k8s.gcr.io/pause-arm64:3.6
