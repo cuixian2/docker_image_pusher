@@ -1,1 +1,1 @@
-registry.k8s.io/kube-proxy-arm64:v1.23.1
+docker.io/flannel/flannel:v0.25.4-amd64
