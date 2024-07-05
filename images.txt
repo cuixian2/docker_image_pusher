@@ -2,4 +2,4 @@ tnir/mysqlclient:latest
 alpine:3.16.0
 kubernetesui/metrics-scraper:v1.0.7
 kubernetesui/dashboard:v2.5.1
-centos:7-arm64v8
+arm64v8/centos
