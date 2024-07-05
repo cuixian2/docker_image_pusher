@@ -2,4 +2,9 @@ tnir/mysqlclient:latest
 alpine:3.16.0
 kubernetesui/metrics-scraper:v1.0.7
 kubernetesui/dashboard:v2.5.1
-arm64v8/centos
+mirrorgcrio/kube-apiserver-arm64:v1.23.1
+mirrorgcrio/kube-controller-manager-arm64:v1.23.1
+mirrorgcrio/kube-scheduler-arm64:v1.23.1
+mirrorgcrio/kube-proxy-arm64:v1.23.1
+mirrorgcrio/etcd-arm64:3.5.1-0
+mirrorgcrio/pause-arm64:3.6
