@@ -1,3 +1,1 @@
 registry.k8s.io/kube-proxy-arm64:v1.23.1
-registry.k8s.io/etcd-arm64:3.5.1-0
-registry.k8s.io/pause-arm64:3.6
