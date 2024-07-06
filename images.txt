@@ -1,1 +1,1 @@
-pingcap/centos-stream:8
+quay.io/centos/centos:stream8
