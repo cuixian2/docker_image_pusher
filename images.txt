@@ -1,1 +1,1 @@
-pingcap/pd-arm64:v7.5.1
+moby/buildkit:buildx-stable-1
