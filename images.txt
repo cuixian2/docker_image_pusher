@@ -1,1 +1,1 @@
-quay.io/coreos/flannel:v0.25.4-arm64
+docker.io/flannel/flannel-cni-plugin:v1.5.1-flannel1-arm64
