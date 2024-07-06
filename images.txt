@@ -1,1 +1,1 @@
-registry.k8s.io/kube-scheduler-arm64:v1.23.1
+quay.io/coreos/flannel:v0.25.4-arm64
