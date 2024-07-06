@@ -1,1 +1,1 @@
-moby/buildkit:buildx-stable-1
+https://hub.docker.com/r/moby/buildkit:buildx-stable-1
