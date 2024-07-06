@@ -1,1 +1,2 @@
 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1-linuxarm64
+k8s.gcr.io/pause-arm64:3.6
