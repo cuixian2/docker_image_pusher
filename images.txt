@@ -1,2 +1,2 @@
 swr.cn-north-4.myhuaweicloud.com/ddn-k8s/docker.io/flannel/flannel-cni-plugin:v1.4.1-flannel1-linuxarm64
-quay.io/external_storage/local-volume-provisioner-arm64:v2.3.4
+quay.io/external_storage/local-volume-provisioner:v2.5.0_linux_arm64
