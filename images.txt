@@ -1,1 +1,2 @@
-quay.io/centos/centos:stream8
+pingcap/tidb-operator-arm64:v1.5.3
+pingcap/tidb-backup-manager-arm64:v1.5.3
