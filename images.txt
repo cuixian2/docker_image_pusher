@@ -1,2 +1,1 @@
-pingcap/tidb-operator-arm64:v1.5.3
-pingcap/tidb-backup-manager-arm64:v1.5.3
+pingcap/tidb-operator:v1.5.3@sha256:f36bbf87fa44be9102dcf9edbe8771728fcdeb2832e5e76d0539cfdaa0c5eba9
