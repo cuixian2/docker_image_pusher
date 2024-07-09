@@ -1,1 +1,1 @@
-pingcap/tidb-backup-manager:v1.5.3@sha256:766ccd98fe11d02268e8e2e093c0fdc05eeda83cfc6e4cff75af2918f91e6859
+pingcap/tidb:v7.5.1@sha256:4b88009875ada7e54299971525aa4f1bf534a2f72f969672537cda5fde307d31
